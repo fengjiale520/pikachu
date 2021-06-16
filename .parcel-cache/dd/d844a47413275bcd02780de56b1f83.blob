@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+    <title>pikachu</title>
+    <link rel="stylesheet" href="76d74868bf480873460adb8aad1df89c">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="nose">
+        </div>
+        <div class="eye left"></div>
+        <div class="eye right"></div>
+        <div class="face left"></div>
+        <div class="face right"></div>
+        <div class="upperLip left"></div>
+        <div class="upperLip right"></div>
+        <div class="lowerLip-wrapper">
+            <div class="lowerLip">
+                <div class="tongue"></div>
+            </div>
+        </div>
+    </div>
+    <script src="eb942e2071ea04b13534ed1f29a5297d"></script>
+</body>
+
+</html>

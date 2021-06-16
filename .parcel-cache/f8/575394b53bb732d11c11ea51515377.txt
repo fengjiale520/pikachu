@@ -1,0 +1,12 @@
+11
+34D:\Fengjiale\pikachu\src\style.css132683010673451316 0
+25D:\Fengjiale\pikachu\dist132683010888769672 1
+24D:\Fengjiale\pikachu\src132683008988676389 1
+35D:\Fengjiale\pikachu\src\index.html132683010887364237 0
+32D:\Fengjiale\pikachu\src\main.js132682997370992387 0
+47D:\Fengjiale\pikachu\dist\index.bd78eeec.js.map132683010888750173 0
+43D:\Fengjiale\pikachu\dist\index.bd78eeec.js132683010888701436 0
+34D:\Fengjiale\pikachu\src\pika.html132683010566313796 0
+44D:\Fengjiale\pikachu\dist\index.de60a1d7.css132683010888701436 0
+48D:\Fengjiale\pikachu\dist\index.de60a1d7.css.map132683010888759914 0
+36D:\Fengjiale\pikachu\dist\index.html132683010888701436 0
